@@ -20,6 +20,9 @@ BTC:
       ps2h: 196
       priv: 63
 
+BTS:
+  name: Bitshares
+
 BVC:
   name: BeaverCoin
   base58_prefixes:
