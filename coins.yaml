@@ -126,6 +126,9 @@ STR:
 XCP:
   name: Counterparty
 
+XMR:
+  name: Monero
+
 XPM:
   name: Primecoin
   base58_prefixes:
