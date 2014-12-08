@@ -30,9 +30,6 @@ BVC:
       p2pkh: 111
       ps2h: 196
 
-XCP:
-  name: Counterparty
-
 DOGE:
   name: Dogecoin
   base58_prefixes:
@@ -119,6 +116,9 @@ PTS:
 
 STR:
   name: Stellar
+
+XCP:
+  name: Counterparty
 
 XPM:
   name: Primecoin
