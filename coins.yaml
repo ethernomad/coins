@@ -1,0 +1,134 @@
+AUR:
+  name: Auroracoin
+  base58_prefixes:
+    mainnet:
+      p2pkh: 23
+      p2sh: 5
+    testnet:
+      p2pkh: 111
+      ps2h: 196
+
+BTC:
+  name: Bitcoin
+  base58_prefixes:
+    mainnet:
+      p2pkh: 0
+      p2sh: 5
+      priv: 128
+    testnet:
+      p2pkh: 103
+      ps2h: 196
+      priv: 63
+
+BVC:
+  name: BeaverCoin
+  base58_prefixes:
+    mainnet:
+      p2pkh: 25
+      p2sh: 5
+    testnet:
+      p2pkh: 111
+      ps2h: 196
+
+XCP:
+  name: Counterparty
+
+DOGE:
+  name: Dogecoin
+  base58_prefixes:
+    mainnet:
+      p2pkh: 30
+      p2sh: 22
+    testnet:
+      p2pkh: 113
+      ps2h: 196
+
+DRK:
+  name: Darkcoin
+  base58_prefixes:
+    mainnet:
+      p2pkh: 76
+      p2sh: 5
+    testnet:
+      p2pkh: 111
+      p2sh: 196
+
+FRC:
+  name: Freicoin
+  base58_prefixes:
+    mainnet:
+      p2pkh: 0
+      p2sh: 5
+    testnet:
+      p2pkh: 111
+      ps2h: 196
+
+LTC:
+  name: Lightcoin
+  base58_prefixes:
+    mainnet:
+      p2pkh: 48
+      p2sh: 5
+    testnet:
+      p2pkh: 111
+      ps2h: 196
+
+MAID:
+  name: MaidSafeCoin
+
+MEC:
+  name: Megacoin
+  base58_prefixes:
+    mainnet:
+      p2pkh: 50
+      p2sh: 5
+    testnet:
+      p2pkh: 111
+      ps2h: 196
+
+NMC:
+  name: Namecoin
+  base58_prefixes:
+    mainnet:
+      p2pkh: 52
+    testnet:
+      p2pkh: 111
+
+NXT:
+  name: Nxt
+
+PPC:
+  name: Peercoin
+  base58_prefixes:
+    mainnet:
+      p2pkh: 55
+      p2sh: 117
+    testnet:
+      p2pkh: 111
+      ps2h: 196
+
+PTS:
+  name: BitShares PTS
+  base58_prefixes:
+    mainnet:
+      p2pkh: 56
+      p2sh: 5
+    testnet:
+      p2pkh: 111
+      ps2h: 196
+
+STR:
+  name: Stellar
+
+XPM:
+  name: Primecoin
+  base58_prefixes:
+    mainnet:
+      p2pkh: 23
+      p2sh: 83
+    testnet:
+      p2pkh: 111
+      ps2h: 196
+
+XRP:
+  name: Ripple
