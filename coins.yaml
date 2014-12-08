@@ -89,6 +89,9 @@ MEC:
       p2pkh: 111
       ps2h: 196
 
+MSC:
+  name: Mastercoin
+
 NMC:
   name: Namecoin
   base58_prefixes:
