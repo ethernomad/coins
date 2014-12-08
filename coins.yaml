@@ -50,6 +50,9 @@ DRK:
       p2pkh: 111
       p2sh: 196
 
+ETH:
+  name: Ether
+
 FRC:
   name: Freicoin
   base58_prefixes:
