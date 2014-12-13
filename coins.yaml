@@ -16,7 +16,7 @@ BTC:
       p2sh: 5
       priv: 128
     testnet:
-      p2pkh: 103
+      p2pkh: 111
       p2sh: 196
       priv: 63
 
