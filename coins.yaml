@@ -6,7 +6,7 @@ AUR:
       p2sh: 5
     testnet:
       p2pkh: 111
-      ps2h: 196
+      p2sh: 196
 
 BTC:
   name: Bitcoin
@@ -17,7 +17,7 @@ BTC:
       priv: 128
     testnet:
       p2pkh: 103
-      ps2h: 196
+      p2sh: 196
       priv: 63
 
 BTS:
@@ -31,7 +31,7 @@ BVC:
       p2sh: 5
     testnet:
       p2pkh: 111
-      ps2h: 196
+      p2sh: 196
 
 DOGE:
   name: Dogecoin
@@ -41,7 +41,7 @@ DOGE:
       p2sh: 22
     testnet:
       p2pkh: 113
-      ps2h: 196
+      p2sh: 196
 
 DRK:
   name: Darkcoin
@@ -64,7 +64,7 @@ FRC:
       p2sh: 5
     testnet:
       p2pkh: 111
-      ps2h: 196
+      p2sh: 196
 
 LTC:
   name: Lightcoin
@@ -74,7 +74,7 @@ LTC:
       p2sh: 5
     testnet:
       p2pkh: 111
-      ps2h: 196
+      p2sh: 196
 
 MAID:
   name: MaidSafeCoin
@@ -87,7 +87,7 @@ MEC:
       p2sh: 5
     testnet:
       p2pkh: 111
-      ps2h: 196
+      p2sh: 196
 
 MSC:
   name: Mastercoin
@@ -111,7 +111,7 @@ PPC:
       p2sh: 117
     testnet:
       p2pkh: 111
-      ps2h: 196
+      p2sh: 196
 
 PTS:
   name: BitShares PTS
@@ -121,7 +121,7 @@ PTS:
       p2sh: 5
     testnet:
       p2pkh: 111
-      ps2h: 196
+      p2sh: 196
 
 STR:
   name: Stellar
@@ -140,7 +140,7 @@ XPM:
       p2sh: 83
     testnet:
       p2pkh: 111
-      ps2h: 196
+      p2sh: 196
 
 XRP:
   name: Ripple
