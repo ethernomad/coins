@@ -9,7 +9,7 @@ AUR:
       p2sh: 196
 
 BC:
-  name BlackCoin
+  name: BlackCoin
 
 BTC:
   name: Bitcoin
