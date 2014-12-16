@@ -10,6 +10,8 @@ AUR:
 
 BC:
   name: BlackCoin
+  slip44:
+    mainnet: 10
 
 BTC:
   name: Bitcoin
@@ -22,6 +24,9 @@ BTC:
       p2pkh: 111
       p2sh: 196
       priv: 63
+  slip44:
+    mainnet: 0
+    testnet: 1
 
 BTS:
   name: Bitshares
@@ -45,6 +50,8 @@ DOGE:
     testnet:
       p2pkh: 113
       p2sh: 196
+  slip44:
+    mainnet: 3
 
 DRK:
   name: Darkcoin
@@ -55,6 +62,8 @@ DRK:
     testnet:
       p2pkh: 111
       p2sh: 196
+  slip44:
+    mainnet: 5
 
 ETH:
   name: Ether
@@ -71,6 +80,8 @@ FRC:
 
 FTC:
   name: Feathercoin
+  slip44:
+    mainnet: 8
 
 LTC:
   name: Lightcoin
@@ -81,6 +92,8 @@ LTC:
     testnet:
       p2pkh: 111
       p2sh: 196
+  slip44:
+    mainnet: 2
 
 MAID:
   name: MaidSafeCoin
@@ -105,12 +118,18 @@ NMC:
       p2pkh: 52
     testnet:
       p2pkh: 111
+  slip44:
+    mainnet: 7
 
 NBT:
   name: NuBits
+  slip44:
+    mainnet: 12
 
 NSR:
   name: NuShares
+  slip44:
+    mainnet: 11
 
 NXT:
   name: Nxt
@@ -124,6 +143,8 @@ PPC:
     testnet:
       p2pkh: 111
       p2sh: 196
+  slip44:
+    mainnet: 6
 
 PTS:
   name: BitShares PTS
@@ -137,12 +158,16 @@ PTS:
 
 RDD:
   name: Reddcoin
+  slip44:
+    mainnet: 4
 
 STR:
   name: Stellar
 
 XCP:
   name: Counterparty
+  slip44:
+    mainnet: 9
 
 XMR:
   name: Monero
