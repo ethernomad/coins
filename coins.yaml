@@ -111,6 +111,9 @@ MEC:
 MSC:
   name: Mastercoin
 
+MYR:
+  name: Myriadcoin
+
 NMC:
   name: Namecoin
   base58_prefixes:
@@ -163,6 +166,9 @@ RDD:
 
 STR:
   name: Stellar
+
+VTC:
+  name: Vertcoin
 
 XCP:
   name: Counterparty
