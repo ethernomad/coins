@@ -164,8 +164,17 @@ RDD:
   slip44:
     mainnet: 4
 
+SDC:
+  name: ShadowCash
+
 STR:
   name: Stellar
+
+SYS:
+  name: SysCoin
+
+VRC:
+  name: VeriCoin
 
 VTC:
   name: Vertcoin
@@ -187,6 +196,9 @@ XPM:
     testnet:
       p2pkh: 111
       p2sh: 196
+
+XPY:
+  name: PayCoin
 
 XRP:
   name: Ripple
