@@ -24,6 +24,13 @@ BTC:
       p2pkh: 111
       p2sh: 196
       priv: 63
+  bip32:
+    mainnet:
+      public: 0x0488b21e
+      private: 0x0488ade4
+    testnet:
+      public: 0x043587cf
+      private: 0x04358394
   slip44:
     mainnet: 0
     testnet: 1
@@ -50,6 +57,13 @@ DOGE:
     testnet:
       p2pkh: 113
       p2sh: 196
+  bip32:
+    mainnet:
+      public: 0x02facafd
+      private: 0x02fac398
+    testnet:
+      public: 0x0432a9a8
+      private: 0x0432a243
   slip44:
     mainnet: 3
 
@@ -92,6 +106,13 @@ LTC:
     testnet:
       p2pkh: 111
       p2sh: 196
+  bip32:
+    mainnet:
+      public: 0x019da462
+      private: 0x019d9cfe
+    testnet:
+      public: 0x0436f6e1
+      private: 0x0436ef7d
   slip44:
     mainnet: 2
 
