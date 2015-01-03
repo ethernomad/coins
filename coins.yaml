@@ -218,8 +218,5 @@ XPM:
       p2pkh: 111
       p2sh: 196
 
-XPY:
-  name: PayCoin
-
 XRP:
   name: Ripple
