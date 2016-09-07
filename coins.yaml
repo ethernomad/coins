@@ -1,3 +1,15 @@
+AC:
+  name: AsiaCoin
+  slip44: 51
+
+AIB:
+  name: AIB
+  slip44: 55
+
+ARG:
+  name: Argentum
+  slip44: 45
+
 AUR:
   name: Auroracoin
   base58_prefixes:
@@ -8,6 +20,18 @@ AUR:
 BC:
   name: BlackCoin
   slip44: 10
+
+BIGUP:
+  name: BigUp
+  slip44: 100
+
+BITB:
+  name: BitBean
+  slip44: 88
+
+BTA:
+  name: Bata
+  slip44: 89
 
 BTC:
   name: Bitcoin
@@ -20,6 +44,14 @@ BTC:
     private: 0x0488ade4
   slip44: 0
 
+BTCD:
+  name: BitcoinDark
+  slip44: 52
+
+BURST:
+  name: Burst
+  slip44: 30
+
 TBTC:
   name: Bitcoin Testnet
   base58_prefixes:
@@ -31,6 +63,10 @@ TBTC:
     private: 0x04358394
   slip44: 1
 
+BSD:
+  name: BitSend
+  slip44: 91
+
 BTS:
   name: Bitshares
 
@@ -39,6 +75,34 @@ BVC:
   base58_prefixes:
     p2pkh: 25
     p2sh: 5
+
+CCN:
+  name: Cannacoin
+  slip44: 19
+
+CDN:
+  name: Canada eCoin
+  slip44: 34
+
+CLAM:
+  name: Clams
+  slip44: 23
+
+CLUB:
+  name: ClubCoin
+  slip44: 79
+
+CRX:
+  name: Chronos
+  slip44: 96
+
+DGB:
+  name: DigiByte
+  slip44: 20
+
+DGC:
+  name: Digitalcoin
+  slip44: 18
 
 DOGE:
   name: Dogecoin
@@ -60,6 +124,10 @@ DOGETEST:
     private: 0x0432a243
   slip44: 1
 
+DOPE:
+  name: DopeCoin
+  slip44: 53
+
 DASH:
   name: Dash
   base58_prefixes:
@@ -70,6 +138,14 @@ DASH:
 DASHTEST:
   name: Dash Testnet
   slip44: 1
+
+EDRC:
+  name: EDRCoin
+  slip44: 56
+
+EDF:
+  name: Electronic Gulden
+  slip44: 78
 
 ETH:
   name: Ether
@@ -83,6 +159,10 @@ ETC:
   name: Ether Classic
   slip44: 61
 
+EVO:
+  name: Evotion
+  slip44: 98
+
 EXP:
   name: Expanse
 
@@ -95,6 +175,34 @@ FRC:
 FTC:
   name: Feathercoin
   slip44: 8
+
+GAME:
+  name: GameCredits
+  slip44: 101
+
+GB:
+  name: GoldBlocks
+  slip44: 94
+
+GCR:
+  name: Global Currency Reserve
+  slip44: 49
+
+GRC:
+  name: GridCoin
+  slip44: 84
+
+GRS:
+  name: Groestlcoin
+  slip44: 17
+
+JBS:
+  name: Jumbucks
+  slip44: 26
+
+IXC:
+  name: iXcoin
+  slip44: 86
 
 KR:
   name: Krypton
@@ -132,12 +240,36 @@ MEC:
     p2pkh: 50
     p2sh: 5
 
+MOIN:
+  name: Moin
+  slip44: 39
+
+MONA:
+  name: MonaCoin
+  slip44: 22
+
 MSC:
   name: Mastercoin
+
+MTR:
+  name: Master Trader
+  slip44: 93
+
+MUE:
+  name: MonetaryUnit
+  slip44: 31
 
 MYR:
   name: Myriadcoin
   slip44: 90
+
+MZC:
+  name: Mazacoin
+  slip44: 13
+
+NAV:
+  name: NAV Coin
+  slip44: 130
 
 NMC:
   name: Namecoin
@@ -155,13 +287,41 @@ NBT:
   name: NuBits
   slip44: 12
 
+NEOS:
+  name: Neoscoin
+  slip44: 25
+
+NLG:
+  name: Gulden
+  slip44: 87
+
 NSR:
   name: NuShares
   slip44: 11
 
+NVC:
+  name: Novacoin
+  slip44: 50
+
 NXT:
   name: Nxt
   slip44: 29
+
+OK:
+  name: OKCash
+  slip44: 69
+
+PKB:
+  name: ParkByte
+  slip44: 36
+
+PND:
+  name: Pandacoin
+  slip44: 37
+
+POT:
+  name: PotCoin
+  slip44: 81
 
 PPC:
   name: Peercoin
@@ -176,9 +336,21 @@ PTS:
     p2pkh: 56
     p2sh: 5
 
+QRK:
+  name: Quarkcoin
+  slip44: 82
+
+RBY:
+  name: Rubycoin
+  slip44: 16
+
 RDD:
   name: Reddcoin
   slip44: 4
+
+RICHX:
+  name: RichCoin
+  slip44: 80
 
 SDC:
   name: ShadowCash
@@ -187,8 +359,16 @@ SDC:
 SHIFT:
   name: Shift
 
+SLR:
+  name: SolarCoin
+  slip44: 58
+
 SOIL:
   name: SOILcoin
+
+START:
+  name: Startcoin
+  slip44: 38
 
 STR:
   name: Stellar
@@ -197,12 +377,28 @@ SYS:
   name: SysCoin
   slip44: 57
 
+TRC:
+  name: Terracoin
+  slip44: 83
+
+UNO:
+  name: Unobtanium
+  slip44: 92
+
+VIA:
+  name: Viacoin
+  slip44: 14
+
 VRC:
   name: VeriCoin
 
 VTC:
   name: Vertcoin
   slip44: 28
+
+XCH:
+  name: ClearingHouse
+  slip44: 15
 
 XCP:
   name: Counterparty
@@ -221,3 +417,15 @@ XPM:
 
 XRP:
   name: Ripple
+
+ZOOM:
+  name: Zoom
+  slip44: 32
+
+VPN:
+  name: VPNCoin
+  slip44: 33
+
+ZRC:
+  name: ziftrCOIN
+  slip44: 27
