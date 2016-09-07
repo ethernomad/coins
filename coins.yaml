@@ -70,6 +70,17 @@ DASHTEST:
 
 ETH:
   name: Ether
+  slip44: 60
+
+ETHT:
+  name: Ether Testnet
+
+ETC:
+  name: Ether Classic
+  slip44: 61
+
+EXP:
+  name: Expanse
 
 FRC:
   name: Freicoin
@@ -80,6 +91,13 @@ FRC:
 FTC:
   name: Feathercoin
   slip44: 8
+
+KR:
+  name: Krypton
+
+LINK:
+  name: Link
+  slip44: 76
 
 LTC:
   name: Litecoin
@@ -156,6 +174,12 @@ RDD:
 
 SDC:
   name: ShadowCash
+
+SHIFT:
+  name: Shift
+
+SOIL:
+  name: SOILcoin
 
 STR:
   name: Stellar
