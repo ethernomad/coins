@@ -89,7 +89,7 @@ CLAM:
   slip44: 23
 
 CLUB:
-  name: ClubCoin
+  name: Clubcoin
   slip44: 79
 
 CRX:
@@ -101,7 +101,7 @@ DGB:
   slip44: 20
 
 DGC:
-  name: Digitalcoin
+  name: DigitalCoin
   slip44: 18
 
 DOGE:
@@ -140,7 +140,7 @@ DASHTEST:
   slip44: 1
 
 EDRC:
-  name: EDRCoin
+  name: EDR Coin
   slip44: 56
 
 EDF:
@@ -189,7 +189,7 @@ GCR:
   slip44: 49
 
 GRC:
-  name: GridCoin
+  name: Gridcoin
   slip44: 84
 
 GRS:
@@ -232,7 +232,7 @@ LTCT:
   slip44: 1
 
 MAID:
-  name: MaidSafeCoin
+  name: Safecoin
 
 MEC:
   name: Megacoin
@@ -245,7 +245,7 @@ MOIN:
   slip44: 39
 
 MONA:
-  name: MonaCoin
+  name: Monacoin
   slip44: 22
 
 MSC:
@@ -264,7 +264,7 @@ MYR:
   slip44: 90
 
 MZC:
-  name: Mazacoin
+  name: MazaCoin
   slip44: 13
 
 NAV:
@@ -337,7 +337,7 @@ PTS:
     p2sh: 5
 
 QRK:
-  name: Quarkcoin
+  name: QuarkCoin
   slip44: 82
 
 RBY:
@@ -367,14 +367,14 @@ SOIL:
   name: SOILcoin
 
 START:
-  name: Startcoin
+  name: StartCOIN
   slip44: 38
 
 STR:
   name: Stellar
 
 SYS:
-  name: SysCoin
+  name: Syscoin
   slip44: 57
 
 TRC:
