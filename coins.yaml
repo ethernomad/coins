@@ -48,11 +48,7 @@ BTCD:
   name: BitcoinDark
   slip44: 52
 
-BURST:
-  name: Burst
-  slip44: 30
-
-TBTC:
+BTCT:
   name: Bitcoin Testnet
   base58_prefixes:
     p2pkh: 111
@@ -69,6 +65,10 @@ BSD:
 
 BTS:
   name: Bitshares
+
+BURST:
+  name: Burst
+  slip44: 30
 
 BVC:
   name: BeaverCoin
