@@ -150,14 +150,33 @@ EDF:
 ETH:
   name: Ether
   slip44: 60
+  ethereum:
+    network_id: 1
+    genesis_hash: 0xd4e56740f876aef8c010b86a40d5f56745a118d0906a34e69aec8c0db1cb8fa3
+    fork_block: 1920000
+    fork_hash: 0x4985f5ca3d2afbec36529aa96f74de3cc10a2a4a6c44f2157a57d2c6059a11bb
+    port: 30303
+    rpc_port: 8545
 
 ETHT:
   name: Ether Testnet
   slip44: 1
+  ethereum:
+    network_id: 2
+    genesis_hash: 0x0cd786a2425d16f152c658316c423e6ce1181e15c3295826d7c9904cba9ce303
+    port: 30303
+    rpc_port: 8545
 
 ETC:
   name: Ether Classic
   slip44: 61
+  ethereum:
+    network_id: 1
+    genesis_hash: 0xd4e56740f876aef8c010b86a40d5f56745a118d0906a34e69aec8c0db1cb8fa3
+    fork_block: 1920000
+    fork_hash: 0x94365e3a8c0b35089c1d1195081fe7489b528a84b22199c916180db8b28ade7f
+    port: 30303
+    rpc_port: 8545
 
 EVO:
   name: Evotion
@@ -165,6 +184,10 @@ EVO:
 
 EXP:
   name: Expanse
+  ethereum:
+    genesis_hash: 0x2fe75cf9ba10cb1105e1750d872911e75365ba24fdd5db7f099445c901fea895
+    port: 42786
+    rpc_port: 9656
 
 FRC:
   name: Freicoin
@@ -206,10 +229,17 @@ IXC:
 
 KR:
   name: Krypton
+  ethereum:
 
 LINK:
   name: Link
+  symbol: 🔗
   slip44: 76
+  ethereum:
+    network_id: 13919287
+    genesis_hash: 0x0f14674f11b5f479fe51e4864a4a2d3c8479a6496be4790ad727e51a032bd7b6
+    port: 30313
+    rpc_port: 8645
 
 LTC:
   name: Litecoin
@@ -358,6 +388,8 @@ SDC:
 
 SHIFT:
   name: Shift
+  ethereum:
+    genesis_hash: 0x6f0ff464544d59ddffef44f1a930fb08b5254e58e549f11142d1e248def6b59e
 
 SLR:
   name: SolarCoin
@@ -365,6 +397,7 @@ SLR:
 
 SOIL:
   name: SOILcoin
+  ethereum:
 
 START:
   name: StartCOIN
