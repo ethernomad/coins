@@ -104,6 +104,10 @@ DGC:
   name: DigitalCoin
   slip44: 18
 
+DLC:
+  name: Dollarcoins
+  slip44: 102
+
 DOGE:
   name: Dogecoin
   base58_prefixes:
@@ -394,6 +398,10 @@ SHIFT:
 SLR:
   name: SolarCoin
   slip44: 58
+
+STO:
+  name: SaveTheOcean
+  slip44: 99
 
 SOIL:
   name: SOILcoin
