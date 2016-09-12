@@ -12,6 +12,7 @@ ARG:
 
 AUR:
   name: Auroracoin
+  symbol: ᚠ
   base58_prefixes:
     p2pkh: 23
     p2sh: 5
@@ -110,6 +111,7 @@ DLC:
 
 DOGE:
   name: Dogecoin
+  symbol: Ð
   base58_prefixes:
     p2pkh: 30
     p2sh: 22
@@ -153,6 +155,7 @@ EDF:
 
 ETH:
   name: Ether
+  symbol: Ξ
   slip44: 60
   ethereum:
     network_id: 1
@@ -256,6 +259,7 @@ LINK:
 
 LTC:
   name: Litecoin
+  symbol: Ł
   base58_prefixes:
     p2pkh: 48
     p2sh: 5
@@ -316,6 +320,7 @@ NAV:
 
 NMC:
   name: Namecoin
+  symbol: ℕ
   base58_prefixes:
     p2pkh: 52
   slip44: 7
@@ -460,6 +465,7 @@ XCP:
 
 XMR:
   name: Monero
+  symbol: ɱ
   slip44: 128
 
 XPM:
