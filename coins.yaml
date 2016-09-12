@@ -235,6 +235,9 @@ IXC:
 KR:
   name: Krypton
   ethereum:
+    network_id: 1
+    port: 17171
+    rpc_port: 8888
 
 LINK:
   name: Link
