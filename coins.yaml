@@ -161,6 +161,7 @@ ETH:
     fork_hash: 0x4985f5ca3d2afbec36529aa96f74de3cc10a2a4a6c44f2157a57d2c6059a11bb
     port: 30303
     rpc_port: 8545
+    ws_port: 8546
 
 ETHT:
   name: Ether Testnet
@@ -170,6 +171,7 @@ ETHT:
     genesis_hash: 0x0cd786a2425d16f152c658316c423e6ce1181e15c3295826d7c9904cba9ce303
     port: 30303
     rpc_port: 8545
+    ws_port: 8546
 
 ETC:
   name: Ether Classic
@@ -181,6 +183,7 @@ ETC:
     fork_hash: 0x94365e3a8c0b35089c1d1195081fe7489b528a84b22199c916180db8b28ade7f
     port: 30303
     rpc_port: 8545
+    ws_port: 8546
 
 EVO:
   name: Evotion
@@ -193,6 +196,7 @@ EXP:
     genesis_hash: 0x2fe75cf9ba10cb1105e1750d872911e75365ba24fdd5db7f099445c901fea895
     port: 42786
     rpc_port: 9656
+    ws_port: 9656
 
 FRC:
   name: Freicoin
@@ -248,6 +252,7 @@ LINK:
     genesis_hash: 0x0f14674f11b5f479fe51e4864a4a2d3c8479a6496be4790ad727e51a032bd7b6
     port: 30313
     rpc_port: 8645
+    ws_port: 8646
 
 LTC:
   name: Litecoin
