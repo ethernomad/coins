@@ -36,6 +36,7 @@ BTA:
 
 BTC:
   name: Bitcoin
+  symbol: ₿
   base58_prefixes:
     p2pkh: 0
     p2sh: 5
