@@ -202,6 +202,10 @@ EXP:
     rpc_port: 9656
     ws_port: 9656
 
+FCT:
+  name: Factom
+  slip44: 131
+
 FRC:
   name: Freicoin
   base58_prefixes:
