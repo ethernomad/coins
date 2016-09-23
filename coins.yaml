@@ -203,8 +203,12 @@ EXP:
     ws_port: 9656
 
 FCT:
-  name: Factom
+  name: Factom Factoids
   slip44: 131
+
+FEC:
+  name: Factom Entry Credits
+  slip44: 132
 
 FRC:
   name: Freicoin
