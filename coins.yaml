@@ -266,6 +266,11 @@ LINK:
     rpc_port: 8645
     ws_port: 8646
 
+LSK:
+  name: Lisk
+  symbol: Ⱡ
+  slip44: 134
+
 LTC:
   name: Litecoin
   symbol: Ł
