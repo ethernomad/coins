@@ -482,6 +482,10 @@ VIA:
   name: Viacoin
   slip44: 14
 
+VPN:
+  name: VPNCoin
+  slip44: 33
+
 VRC:
   name: VeriCoin
 
@@ -512,14 +516,6 @@ XPM:
 XRP:
   name: Ripple
 
-ZOOM:
-  name: Zoom
-  slip44: 32
-
-VPN:
-  name: VPNCoin
-  slip44: 33
-
 ZEC:
   name: Zcash
   symbol: ⓩ
@@ -528,6 +524,10 @@ ZEC:
 ZRC:
   name: ziftrCOIN
   slip44: 27
+
+ZOOM:
+  name: Zoom
+  slip44: 32
 
 ZYD:
   name: Zayedcoin
