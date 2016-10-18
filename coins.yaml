@@ -516,6 +516,10 @@ XPM:
 XRP:
   name: Ripple
 
+XZC:
+  name: Zcoin
+  slip44: 135
+
 ZEC:
   name: Zcash
   symbol: ⓩ
