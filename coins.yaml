@@ -500,6 +500,11 @@ VPN:
   name: VPNCoin
   slip44: 33
 
+ZEC:
+  name: Zcash
+  symbol: ⓩ
+  slip44: 133
+
 ZRC:
   name: ziftrCOIN
   slip44: 27
