@@ -98,6 +98,10 @@ CRX:
   name: Chronos
   slip44: 96
 
+DBIC:
+  name: Dubaicoin
+  slip44: 104
+
 DGB:
   name: DigiByte
   slip44: 20
@@ -373,6 +377,10 @@ OK:
   name: OKCash
   slip44: 69
 
+PIGGY:
+  name: PiggyCoin
+  slip44: 118
+
 PKB:
   name: ParkByte
   slip44: 36
@@ -418,6 +426,10 @@ SDC:
   name: ShadowCash
   slip44: 35
 
+SHI:
+  name: Shillingcoins
+  slip44: 106
+
 SHIFT:
   name: Shift
   ethereum:
@@ -431,13 +443,21 @@ SLR:
   name: SolarCoin
   slip44: 58
 
-STO:
-  name: SaveTheOcean
-  slip44: 99
+SMLY:
+  name: SmileyCoin
+  slip44: 82
 
 SOIL:
   name: SOILcoin
   ethereum:
+
+STO:
+  name: SaveTheOcean
+  slip44: 99
+
+STRAT:
+  name: Stratis
+  slip44: 104
 
 START:
   name: StartCOIN
@@ -508,3 +528,7 @@ ZEC:
 ZRC:
   name: ziftrCOIN
   slip44: 27
+
+ZYD:
+  name: Zayedcoin
+  slip44: 103
