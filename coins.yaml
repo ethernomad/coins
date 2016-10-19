@@ -518,7 +518,7 @@ XRP:
 
 XZC:
   name: Zcoin
-  slip44: 135
+  slip44: 136
 
 ZEC:
   name: Zcash
