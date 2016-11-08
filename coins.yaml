@@ -254,10 +254,6 @@ IXC:
 
 KR:
   name: Krypton
-  ethereum:
-    network_id: 1
-    port: 17171
-    rpc_port: 8888
 
 LINK:
   name: Link
@@ -436,12 +432,6 @@ SHI:
 
 SHIFT:
   name: Shift
-  ethereum:
-    network_id: 1
-    genesis_hash: 0x6f0ff464544d59ddffef44f1a930fb08b5254e58e549f11142d1e248def6b59e
-    port: 53900
-    rpc_port: 53901
-    ws_port: 53902
 
 SLR:
   name: SolarCoin
@@ -453,7 +443,6 @@ SMLY:
 
 SOIL:
   name: SOILcoin
-  ethereum:
 
 STO:
   name: SaveTheOcean
