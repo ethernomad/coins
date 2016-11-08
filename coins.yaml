@@ -400,6 +400,10 @@ PPC:
     p2sh: 117
   slip44: 6
 
+PSB:
+  name: Pesobit
+  slip44: 62
+
 PTS:
   name: BitShares PTS
   base58_prefixes:
