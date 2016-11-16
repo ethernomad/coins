@@ -422,6 +422,14 @@ RICHX:
   name: RichCoin
   slip44: 80
 
+RSK:
+  name: Rootstock
+  slip44: 137
+
+RSKT:
+  name: Rootstock Testnet
+  slip44: 37310
+
 SDC:
   name: ShadowCash
   slip44: 35
