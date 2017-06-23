@@ -260,8 +260,8 @@ LINK:
   symbol: 🔗
   slip44: 76
   ethereum:
-    network_id: 13919287
-    genesis_hash: 0x0f14674f11b5f479fe51e4864a4a2d3c8479a6496be4790ad727e51a032bd7b6
+    network_id: 76
+    genesis_hash: 0x4fa57903dad05875ddf78030c16b5da886f7d81714cf66946a4c02566dbb2af5
     port: 30313
     rpc_port: 8645
     ws_port: 8646
